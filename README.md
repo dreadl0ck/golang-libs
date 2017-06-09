@@ -61,6 +61,8 @@ This is my personal list of awesome golang repositories and useful resources for
 - [coop](https://github.com/rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go
 - [Go By Example](https://gobyexample.com) - Go Source Code Examples
 - [GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
+- [CuratedGo Twitter](https://twitter.com/curatedgo) - Awesome twitter channel about golang
+- [DaveCheney Blog](https://dave.cheney.net) - Dave Cheney's Blog with lots of interesting articles 
 
 ## Library Collections
 
@@ -104,6 +106,7 @@ This is my personal list of awesome golang repositories and useful resources for
 - [grapes](https://github.com/yaronsumel/grapes) - easy way to distribute commands over ssh
 - [yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library
 - [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams
+- [cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
 
 ## Virtualization
 
