@@ -90,6 +90,7 @@ This is my personal list of awesome golang repositories and useful resources for
 
 ## Networking
 
+- [emitter-io](https://github.com/emitter-io/emitter) - High-performance, distributed, and secure publish-subscribe platform built with MQTT.
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [doorman](https://github.com/youtube/doorman) - Global Distributed Client Side Rate Limiting
 - [meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
