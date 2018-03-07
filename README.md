@@ -168,6 +168,8 @@ This is my personal list of awesome golang repositories and useful resources for
 - [onionscan](https://github.com/s-rah/onionscan) - Tool for investigating the Dark Web
 - [totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) - Take security by obscurity to the next level
 - [EasyCert](https://github.com/deckarep/EasyCert) - EasyCert quickly generates web server TLS certificates that have been self-signed by a private certificate authority that it also creates.
+- [OpenPortNotifier](https://github.com/fnzv/OpenPortNotifier) - Simple tool to monitor network changes over time and trigger alerts
+- [NetShield](https://github.com/fnzv/net-Shield) - An Easy and Simple Anti-DDoS solution for VPS,Dedicated Servers and IoT devices - Beta
 
 ## Logging
 
