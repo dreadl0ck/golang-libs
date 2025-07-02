@@ -371,7 +371,7 @@ This is my personal list of awesome golang repositories and useful resources for
 
 - [go-hardware](https://github.com/rakyll/go-hardware) - A directory of hardware related libs, tools, and tutorials for Go
 
-## Maschine Learning
+## Machine Learning
 
 - [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang
 - [cloudforest](https://github.com/ryanbressler/CloudForest) - Ensembles of decision trees in go/golang
